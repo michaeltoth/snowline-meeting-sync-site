@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://meetingsync.snowlineautomation.com/sitemap.xml

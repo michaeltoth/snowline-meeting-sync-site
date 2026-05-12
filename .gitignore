@@ -1,0 +1,6 @@
+.DS_Store
+*.log
+checks/
+.netlify/
+node_modules/
+.env
